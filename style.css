@@ -774,3 +774,37 @@ top: 134px;
   left: 1040px;
   top: 110px;
 }
+.diplom{
+  position: absolute;
+  width: 1920px;
+  height: 853px;
+  left: 0px;
+  top: 5273px;
+  
+  /* light creme */
+  
+  background: #F3EEEA;
+}
+.diplom-title{
+  position: absolute;
+  width: 366px;
+  height: 78px;
+  left: 145px;
+  top: 112px;
+  
+  font-family: 'Tenor Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 72px;
+  /* or 120% */
+  
+  letter-spacing: -0.015em;
+  
+  /* title gradient */
+  
+  background: linear-gradient(92.68deg, #2F2F2F 20.01%, #1B6FBB 100.64%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
